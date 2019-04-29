@@ -1,0 +1,4 @@
+CREATE TABLE Zodiak_signs(
+	sign_id SERIAL PRIMARY KEY NOT NULL,
+	sign_name VARCHAR(50) NOT NULL
+);

@@ -1,0 +1,1 @@
+select name,last_name,second_name,sign_name from students join zodiak_signs on zodiak_sign=sign_id
